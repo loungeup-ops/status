@@ -1,0 +1,47 @@
+owner: loungeup-ops
+repo: status
+runner: "[self-hosted]"
+user-agent: loungeup-ops
+sites:
+  - name: Portal
+    url: https://portal.loungeup.com
+
+  - name: Back-Office
+    url: https://admin.loungeup.com/oauth/callback
+
+  - name: ID (Authentication)
+    url: https://id.loungeup.com/auth/realms/production/protocol/openid-connect/auth
+    expectedStatusCodes:
+      - 400
+
+  - name: API
+    url: https://api.loungeup.com
+    expectedStatusCodes:
+      - 405
+
+  - name: Dmbook pro
+    url: https://app.dmbook.pro/
+    expectedStatusCodes:
+      - 401
+
+  - name: Images & medias
+    url: https://static.loungeup.com
+    expectedStatusCodes:
+      - 403
+
+status-website:
+  name: LoungeUp Services Status
+  cname: next.status.loungeup.com
+  introTitle: "**LoungeUp** Services Status"
+  introMessage: This status page provides real-time monitoring for our services. If there are any performance or service interruptions, an issue will be posted here.
+  favicon: https://static.loungeup.com/favicons/favicon_loungeup.ico
+  logoUrl: https://static.loungeup.com/img/apps-logos/loungeup.png
+  navbar:
+    - title: Status
+      href: /
+
+    - title: Website
+      href: https://loungeup.com
+
+    - title: Old Status Page
+      href: https://status.loungeup.com
