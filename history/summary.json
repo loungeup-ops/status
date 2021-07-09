@@ -4,9 +4,9 @@
     "url": "https://portal.loungeup.com",
     "icon": "https://favicons.githubusercontent.com/portal.loungeup.com",
     "slug": "portal",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,25 +15,29 @@
     "timeWeek": 26,
     "timeMonth": 26,
     "timeYear": 26,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-07-09": 0
+    }
   },
   {
     "name": "Back-Office",
     "url": "https://admin.loungeup.com/oauth/callback",
     "icon": "https://favicons.githubusercontent.com/admin.loungeup.com",
     "slug": "back-office",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 41,
-    "timeDay": 77,
+    "timeDay": 60,
     "timeWeek": 41,
     "timeMonth": 41,
     "timeYear": 41,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-07-09": 0
+    }
   },
   {
     "name": "ID (Authentication)",
@@ -58,18 +62,20 @@
     "url": "https://api.loungeup.com",
     "icon": "https://favicons.githubusercontent.com/api.loungeup.com",
     "slug": "api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 44,
-    "timeDay": 53,
-    "timeWeek": 44,
-    "timeMonth": 44,
-    "timeYear": 44,
-    "dailyMinutesDown": {}
+    "time": 38,
+    "timeDay": 34,
+    "timeWeek": 38,
+    "timeMonth": 38,
+    "timeYear": 38,
+    "dailyMinutesDown": {
+      "2021-07-09": 0
+    }
   },
   {
     "name": "Dmbook pro",
