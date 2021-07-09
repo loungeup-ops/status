@@ -1,7 +1,7 @@
 url: https://admin.loungeup.com/oauth/callback
-status: down
-code: 502
-responseTime: 42
-lastUpdated: 2021-07-09T05:43:33.631Z
+status: up
+code: 200
+responseTime: 35
+lastUpdated: 2021-07-09T05:58:27.529Z
 startTime: Tue Jul 06 2021 15:09:19 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
