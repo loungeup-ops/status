@@ -1,7 +1,7 @@
 url: https://api.loungeup.com
-status: up
-code: 405
-responseTime: 48
-lastUpdated: 2021-07-14T23:18:51.642Z
+status: down
+code: 502
+responseTime: 13
+lastUpdated: 2021-07-15T13:54:23.918Z
 startTime: Tue Jul 06 2021 15:09:20 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
