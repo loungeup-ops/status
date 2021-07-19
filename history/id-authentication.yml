@@ -1,7 +1,7 @@
 url: https://id.loungeup.com/auth/realms/production/protocol/openid-connect/auth
 status: up
 code: 400
-responseTime: 64
-lastUpdated: 2021-07-19T07:50:39.160Z
+responseTime: 359
+lastUpdated: 2021-07-19T23:18:31.110Z
 startTime: Tue Jul 06 2021 15:09:20 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
