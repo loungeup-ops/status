@@ -1,6 +1,5 @@
 owner: loungeup-ops
 repo: status
-runner: "[self-hosted]"
 user-agent: loungeup-ops
 sites:
   - name: Portal
