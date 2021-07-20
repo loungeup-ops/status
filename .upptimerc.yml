@@ -1,30 +1,38 @@
+customStatusWebsitePackage: https://github.com/remyduthu/status-page
+
 owner: loungeup-ops
 repo: status
 user-agent: loungeup-ops
 sites:
   - name: Portal
     url: https://portal.loungeup.com
+    showAverageResponseTime: false
 
   - name: Back-Office
     url: https://admin.loungeup.com/oauth/callback
+    showAverageResponseTime: false
 
   - name: ID (Authentication)
     url: https://id.loungeup.com/auth/realms/production/protocol/openid-connect/auth
+    showAverageResponseTime: false
     expectedStatusCodes:
       - 400
 
   - name: API
     url: https://api.loungeup.com
+    showAverageResponseTime: false
     expectedStatusCodes:
       - 405
 
   - name: Dmbook pro
     url: https://app.dmbook.pro/
+    showAverageResponseTime: false
     expectedStatusCodes:
       - 401
 
   - name: Images & medias
     url: https://static.loungeup.com
+    showAverageResponseTime: false
     expectedStatusCodes:
       - 403
 
