@@ -1,4 +1,4 @@
-customStatusWebsitePackage: https://github.com/remyduthu/status-page
+customStatusWebsitePackage: "@upptime/status-page#pull/296/head"
 
 owner: loungeup-ops
 repo: status
