@@ -12,7 +12,7 @@
     "uptimeYear": "99.83%",
     "time": 234,
     "timeDay": 741,
-    "timeWeek": 575,
+    "timeWeek": 625,
     "timeMonth": 234,
     "timeYear": 234,
     "dailyMinutesDown": {
@@ -33,7 +33,7 @@
     "uptimeYear": "99.83%",
     "time": 193,
     "timeDay": 624,
-    "timeWeek": 484,
+    "timeWeek": 524,
     "timeMonth": 193,
     "timeYear": 193,
     "dailyMinutesDown": {
@@ -46,18 +46,20 @@
     "url": "https://id.loungeup.com/auth/realms/production/protocol/openid-connect/auth",
     "icon": "https://favicons.githubusercontent.com/id.loungeup.com",
     "slug": "id-authentication",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 257,
-    "timeDay": 652,
-    "timeWeek": 467,
-    "timeMonth": 257,
-    "timeYear": 257,
-    "dailyMinutesDown": {}
+    "time": 261,
+    "timeDay": 508,
+    "timeWeek": 492,
+    "timeMonth": 261,
+    "timeYear": 261,
+    "dailyMinutesDown": {
+      "2021-07-26": 0
+    }
   },
   {
     "name": "API",
@@ -72,7 +74,7 @@
     "uptimeYear": "99.83%",
     "time": 236,
     "timeDay": 735,
-    "timeWeek": 543,
+    "timeWeek": 574,
     "timeMonth": 236,
     "timeYear": 236,
     "dailyMinutesDown": {
@@ -93,7 +95,7 @@
     "uptimeYear": "100.00%",
     "time": 263,
     "timeDay": 640,
-    "timeWeek": 505,
+    "timeWeek": 546,
     "timeMonth": 263,
     "timeYear": 263,
     "dailyMinutesDown": {}
@@ -111,7 +113,7 @@
     "uptimeYear": "100.00%",
     "time": 328,
     "timeDay": 1118,
-    "timeWeek": 672,
+    "timeWeek": 728,
     "timeMonth": 328,
     "timeYear": 328,
     "dailyMinutesDown": {}
