@@ -11,7 +11,7 @@ sites:
     showAverageResponseTime: false
 
   - name: ID (Authentication)
-    url: https://id.loungeup.com/auth/realms/production/protocol/openid-connect/auth
+    url: https://id.loungeup.com/realms/production
     showAverageResponseTime: false
     expectedStatusCodes:
       - 400
