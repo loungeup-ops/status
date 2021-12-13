@@ -57,17 +57,17 @@
     "url": "https://id.loungeup.com/realms/production",
     "icon": "https://favicons.githubusercontent.com/id.loungeup.com",
     "slug": "id-authentication",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
     "uptimeDay": "97.94%",
     "uptimeWeek": "99.71%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.99%",
-    "time": 457,
-    "timeDay": 615,
-    "timeWeek": 516,
-    "timeMonth": 507,
-    "timeYear": 457,
+    "time": 460,
+    "timeDay": 772,
+    "timeWeek": 579,
+    "timeMonth": 525,
+    "timeYear": 460,
     "dailyMinutesDown": {
       "2021-12-13": 30
     }
