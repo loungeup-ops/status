@@ -57,9 +57,9 @@
     "url": "https://id.loungeup.com/realms/production",
     "icon": "https://favicons.githubusercontent.com/id.loungeup.com",
     "slug": "id-authentication",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -68,7 +68,9 @@
     "timeWeek": 477,
     "timeMonth": 498,
     "timeYear": 455,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-12-13": 0
+    }
   },
   {
     "name": "API",
