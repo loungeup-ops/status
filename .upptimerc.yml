@@ -38,7 +38,7 @@ status-website:
   introTitle: "**LoungeUp** Services Status"
   introMessage: This status page provides real-time monitoring for our services. If there are any performance or service interruptions, an issue will be posted here.
   favicon: https://static.loungeup.com/favicons/favicon_loungeup.ico
-  logoUrl: https://static.loungeup.com/img/logo-txtblack-transparent.png 
+  logoUrl: https://static.loungeup.com/img/loungeup-chair-transparent.png 
   navbar:
     - title: Status
       href: /
