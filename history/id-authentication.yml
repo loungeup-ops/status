@@ -1,7 +1,7 @@
 url: https://id.loungeup.com/realms/production
-status: down
-code: 503
-responseTime: 351
-lastUpdated: 2022-07-11T13:12:51.702Z
+status: up
+code: 200
+responseTime: 1654
+lastUpdated: 2022-07-11T13:54:01.868Z
 startTime: Tue Jul 06 2021 15:09:20 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
